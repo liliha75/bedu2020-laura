@@ -1,0 +1,16 @@
+{
+  "pets": [
+    {
+      "name": "Bingo",
+      "type": "dog",
+      "age": 2,
+      "id": "ac20d9ef-3b4a-4421-bfab-ab8e52648ba4"
+    },
+    {
+      "name": "Micifu",
+      "type": "cat",
+      "age": 1,
+      "id": "05fa9461-b241-4f66-8c6b-009625f1bb9a"
+    }
+  ]
+}
