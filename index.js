@@ -104,7 +104,7 @@ const express = require('express')
 const bodyParser = require('body-parser')
 const app = express()
 const port = 3000
-const Pet = require('./src/models/pets')
+const Pets = require('./src/models/pets')
 app.listen(port)
 // Set up server to receive data from requests
 app.use(express.json())
